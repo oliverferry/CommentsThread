@@ -1,0 +1,54 @@
+.app {
+
+}
+
+.messageInput {
+    
+}
+
+.userItem {
+    padding: 10px 0px;
+}
+
+.inputItem {
+    padding: 10px 20px 10px 20px;
+}
+
+.addMsg {
+    padding: 5px 10px 5px 20px;
+}
+
+.msgcell{
+    display: flex;
+    margin: 5px 0px 0px 0px;
+    padding: 10px 0px 0px 0px;
+    border-radius: 6px;
+}
+
+.cellinfo{
+    margin-left: 15px;
+}
+
+.cellinfo h4{
+    margin: 0px 0px 5px 0px;
+    color: black;
+    font-family: sans-serif;
+}
+
+.cellinfo p{
+    margin: 0px;
+    color: black;
+    font-family: sans-serif;
+}
+
+.buttonsBar {
+    margin-left: 45px;
+}
+
+#likesLabel {
+    display: 'inline-block';
+    padding: 0;
+    min-height: 0px;
+    min-width: 0px;
+    color: rgb(91, 91, 91);
+  }
